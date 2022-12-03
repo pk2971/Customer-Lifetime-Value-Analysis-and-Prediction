@@ -8,4 +8,15 @@ to make decisions about how much money to invest in acquiring new customers and 
 
 CLTV=Avg order value*avg purchase freq*avg customer lifetime
 
+RFM=Recency, Frequency and Monetary value
+RFM is a customer segmentation technique that segments customers based on their purchasing habits.
+
+Recency: How recently a customer made a purchase
+
+Frequency: How often a customer makes a purchase
+
+Monetary Value: How much money a customer spends on a purchase
+
+RFM analysis numerically ranks a customer in each of these three categories, generally on a scale of 1 to 5 (the higher the number, the better the result). The "best" customer would receive a top score in every category.
+
 
