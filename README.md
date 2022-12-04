@@ -6,6 +6,8 @@ Link to RFM analysis and scoring colab notebook: https://colab.research.google.c
 
 RFM scores dataset available in the repository.
 
+Link to customer LTV classification and prediction colab notebook: https://colab.research.google.com/drive/1Jw8JtjnQQGN-z-nqbAC3nBIG4vmVFgn4#scrollTo=lAAaqVKmTC8f
+
 ## Notes on the project
 
 CLTV:CLV/CLTV is the average monetary value of each customer for a business.Customer Lifetime Value (CLTV) represents the total amount 
