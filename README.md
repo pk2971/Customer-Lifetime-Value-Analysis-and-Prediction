@@ -14,7 +14,7 @@ CLTV:CLV/CLTV is the average monetary value of each customer for a business.Cust
 of money a customer is expected to spend in a business during his/her lifetime. This is an important metric to monitor because it helps 
 to make decisions about how much money to invest in acquiring new customers and retaining existing ones.
 
-CLTV=Avg order value*avg purchase freq x avg customer lifetime
+CLTV=Avg order value x avg purchase freq x avg customer lifetime
 
 RFM=Recency, Frequency and Monetary value
 RFM is a customer segmentation technique that segments customers based on their purchasing habits.
